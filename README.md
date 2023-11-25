@@ -37,6 +37,11 @@ Si el sensor de nivel detecta un valor mayor al 95% se activara una alarma.
 Si el nivel del tanque cae por debajo del 25%, el controlador abriría la válvula automáticamente para volver a llenar el tanque. 
 
 
+#### - Maquina de Estado 
+
+[![TP-JUAN.png](https://i.postimg.cc/TYbfFpbV/TP-JUAN.png)](https://postimg.cc/nCnyQV0r)
+
+
 
 
 
